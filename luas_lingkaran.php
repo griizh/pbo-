@@ -28,4 +28,4 @@ class LuasLingkaran {
 $lingkaran = new LuasLingkaran(10);
 $lingkaran->tampil('roda'); //panggil method tampil
 
-LuasLingkaran::testing(); //panggil static methodit
+LuasLingkaran::testing(); //panggil static methoditgit
